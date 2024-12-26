@@ -1,3 +1,4 @@
 # Blog
 This website is regarding to write your blogs
-Author == "Ankit Kumat"
+<br>
+Author == "Ankit Kumar"
